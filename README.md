@@ -2,7 +2,7 @@
 
 ## Description
 
-This Text Editor app is an installable web-app that you can use without internet connection.
+This Text Editor app is an installable web-app that you can use without internet connection and use for note-taking.
 
 ## Installation
 
