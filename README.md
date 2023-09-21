@@ -10,7 +10,7 @@ Before use, make you use npm i then npm run start
 
 ## Usage
 
-This app willl be helpful in place you where you might not have internet connection and you have a super good ideaaa you want jote down
+This app willl be helpful in place you where you might not have internet connection and you have a super good idea you want jote down
 
 ![image of the text editor app](client/src/images/jate.png)
 
